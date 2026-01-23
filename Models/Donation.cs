@@ -13,10 +13,10 @@ namespace DonationsApp.Models
 
         [Required]
         [StringLength(100)]
-        public string DonorName { get; set; }  // اسم المتبرع
+        public required string DonorName { get; set; }  // اسم المتبرع
 
         public DateTime DonationDate { get; set; } = DateTime.UtcNow;  // تاريخ التبرع
 
-        public string UserId { get; set; }  // Foreign Key للمستخدم
+        public required string UserId { get; set; }  // Foreign Key للمستخدم
     }
 }

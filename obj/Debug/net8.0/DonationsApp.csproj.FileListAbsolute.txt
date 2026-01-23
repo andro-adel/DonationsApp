@@ -152,3 +152,4 @@ D:\DevStudy\Core Platform\Projects\DonationsApp\obj\Debug\net8.0\refint\Donation
 D:\DevStudy\Core Platform\Projects\DonationsApp\obj\Debug\net8.0\DonationsApp.pdb
 D:\DevStudy\Core Platform\Projects\DonationsApp\obj\Debug\net8.0\DonationsApp.genruntimeconfig.cache
 D:\DevStudy\Core Platform\Projects\DonationsApp\obj\Debug\net8.0\ref\DonationsApp.dll
+D:\DevStudy\Core Platform\Projects\DonationsApp\bin\Debug\net8.0\postman_collection.json
